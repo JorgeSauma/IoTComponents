@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="IoT Components" max_length="40" name="x_127881_iot_compo_iot_components" type="collection">
+        <element label="Author" max_length="40" name="author" type="string"/>
+        <element label="Capabilities" max_length="40" name="capabilities" type="string"/>
+        <element label="Company" max_length="40" name="company" type="string"/>
+        <element label="Component Name" max_length="40" name="component_name" type="string"/>
+        <element label="Is data sent over secure channel?" max_length="40" name="data_sent_over_secure_channel" type="boolean"/>
+        <element label="Comments" max_length="40" name="data_sent_over_secure_channel_comment" type="string"/>
+        <element label="Is data validated?" max_length="40" name="data_validation" type="boolean"/>
+        <element label="Comments" max_length="40" name="data_validation_comment" type="string"/>
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element default="01/01/00" label="Release date" mandatory="true" max_length="10" name="release_date" type="glide_date"/>
+        <element label="Requirements list" max_length="40" name="requirements" type="string"/>
+        <element label="URL" max_length="1024" name="url" type="url"/>
+        <element attributes="edge_encryption_enabled=true" label="Comments" max_length="250" name="u_data_san_comments" type="string"/>
+        <element label="Is data sanitized?" max_length="40" name="u_is_data_sanitized" type="boolean"/>
+        <element default="0.0" label="Version" mandatory="true" max_length="10" name="version" type="string"/>
+    </element>
+</database>
