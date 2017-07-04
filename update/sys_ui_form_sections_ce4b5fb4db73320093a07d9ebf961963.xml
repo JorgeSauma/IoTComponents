@@ -99,6 +99,62 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-07-04 20:02:31</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-04 20:17:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9938d009dbf3320093a07d9ebf961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_127881_iot_compo_iot_components" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">ce4b5fb4db73320093a07d9ebf961963</sys_ui_form>
+            <sys_ui_section caption="Debugging" display_value="Debugging" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">0138d009dbf3320093a07d9ebf96191c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-04 20:17:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-04 20:17:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d538d009dbf3320093a07d9ebf961926</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_127881_iot_compo_iot_components" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">ce4b5fb4db73320093a07d9ebf961963</sys_ui_form>
+            <sys_ui_section caption="Communication protocols" display_value="Communication protocols" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">1938d009dbf3320093a07d9ebf96191c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-04 20:17:50</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-04 20:40:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5f5ddc89dbf3320093a07d9ebf961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_127881_iot_compo_iot_components" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">ce4b5fb4db73320093a07d9ebf961963</sys_ui_form>
+            <sys_ui_section caption="APIs" display_value="APIs" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">175ddc89dbf3320093a07d9ebf961923</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-04 20:40:22</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-04 20:41:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0bdd0c9dbf3320093a07d9ebf96196c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_127881_iot_compo_iot_components" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">ce4b5fb4db73320093a07d9ebf961963</sys_ui_form>
+            <sys_ui_section caption="Interfaces" display_value="Interfaces" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">40bdd0c9dbf3320093a07d9ebf961967</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-04 20:41:46</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_127881_iot_compo_iot_components</name>
             <roles/>

@@ -5,13 +5,13 @@
             <element>u_log_files_stored</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 20:02:35</sys_created_on>
-            <sys_id>fdb4d085dbf3320093a07d9ebf96196f</sys_id>
+            <sys_created_on>2017-07-04 20:05:30</sys_created_on>
+            <sys_id>bc659885dbf3320093a07d9ebf9619d4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Logging" display_value="Logging" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">49b45085dbf3320093a07d9ebf96194c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 20:02:35</sys_updated_on>
+            <sys_updated_on>2017-07-04 20:05:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>.begin_split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 20:02:35</sys_created_on>
-            <sys_id>71b4d085dbf3320093a07d9ebf961970</sys_id>
+            <sys_created_on>2017-07-04 20:05:30</sys_created_on>
+            <sys_id>30659885dbf3320093a07d9ebf9619d5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Logging" display_value="Logging" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">49b45085dbf3320093a07d9ebf96194c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 20:02:35</sys_updated_on>
+            <sys_updated_on>2017-07-04 20:05:30</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>u_ntp_supported</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 20:02:35</sys_created_on>
-            <sys_id>f1b4d085dbf3320093a07d9ebf961970</sys_id>
+            <sys_created_on>2017-07-04 20:05:30</sys_created_on>
+            <sys_id>b0659885dbf3320093a07d9ebf9619d5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Logging" display_value="Logging" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">49b45085dbf3320093a07d9ebf96194c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 20:02:35</sys_updated_on>
+            <sys_updated_on>2017-07-04 20:05:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>u_log_levels</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 20:02:35</sys_created_on>
-            <sys_id>75b4d085dbf3320093a07d9ebf961970</sys_id>
+            <sys_created_on>2017-07-04 20:05:30</sys_created_on>
+            <sys_id>34659885dbf3320093a07d9ebf9619d5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Logging" display_value="Logging" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">49b45085dbf3320093a07d9ebf96194c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 20:02:35</sys_updated_on>
+            <sys_updated_on>2017-07-04 20:05:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,13 +61,13 @@
             <element>u_logs_timestamped</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 20:02:35</sys_created_on>
-            <sys_id>f5b4d085dbf3320093a07d9ebf961970</sys_id>
+            <sys_created_on>2017-07-04 20:05:30</sys_created_on>
+            <sys_id>b4659885dbf3320093a07d9ebf9619d5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Logging" display_value="Logging" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">49b45085dbf3320093a07d9ebf96194c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 20:02:35</sys_updated_on>
+            <sys_updated_on>2017-07-04 20:05:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -75,13 +75,13 @@
             <element>u_log_rotate</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 20:02:35</sys_created_on>
-            <sys_id>79b4d085dbf3320093a07d9ebf961970</sys_id>
+            <sys_created_on>2017-07-04 20:05:30</sys_created_on>
+            <sys_id>38659885dbf3320093a07d9ebf9619d5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Logging" display_value="Logging" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">49b45085dbf3320093a07d9ebf96194c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 20:02:35</sys_updated_on>
+            <sys_updated_on>2017-07-04 20:05:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -89,13 +89,13 @@
             <element>u_log_access_control</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 20:02:35</sys_created_on>
-            <sys_id>f9b4d085dbf3320093a07d9ebf961970</sys_id>
+            <sys_created_on>2017-07-04 20:05:30</sys_created_on>
+            <sys_id>b8659885dbf3320093a07d9ebf9619d5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Logging" display_value="Logging" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">49b45085dbf3320093a07d9ebf96194c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 20:02:35</sys_updated_on>
+            <sys_updated_on>2017-07-04 20:05:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -103,13 +103,13 @@
             <element>.split</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 20:02:35</sys_created_on>
-            <sys_id>7db4d085dbf3320093a07d9ebf961970</sys_id>
+            <sys_created_on>2017-07-04 20:05:30</sys_created_on>
+            <sys_id>3c659885dbf3320093a07d9ebf9619d5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Logging" display_value="Logging" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">49b45085dbf3320093a07d9ebf96194c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 20:02:35</sys_updated_on>
+            <sys_updated_on>2017-07-04 20:05:30</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -117,13 +117,69 @@
             <element>u_ntp_support_comments</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 20:02:35</sys_created_on>
-            <sys_id>fdb4d085dbf3320093a07d9ebf961970</sys_id>
+            <sys_created_on>2017-07-04 20:05:30</sys_created_on>
+            <sys_id>bc659885dbf3320093a07d9ebf9619d5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Logging" display_value="Logging" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">49b45085dbf3320093a07d9ebf96194c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 20:02:35</sys_updated_on>
+            <sys_updated_on>2017-07-04 20:05:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_log_levels_comments</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-04 20:05:30</sys_created_on>
+            <sys_id>30659885dbf3320093a07d9ebf9619d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Logging" display_value="Logging" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">49b45085dbf3320093a07d9ebf96194c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-04 20:05:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_log_timestamped_comments</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-04 20:05:30</sys_created_on>
+            <sys_id>b0659885dbf3320093a07d9ebf9619d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Logging" display_value="Logging" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">49b45085dbf3320093a07d9ebf96194c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-04 20:05:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_log_rotate_comments</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-04 20:05:30</sys_created_on>
+            <sys_id>34659885dbf3320093a07d9ebf9619d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Logging" display_value="Logging" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">49b45085dbf3320093a07d9ebf96194c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-04 20:05:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_log_access_comments</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-04 20:05:30</sys_created_on>
+            <sys_id>b4659885dbf3320093a07d9ebf9619d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Logging" display_value="Logging" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">49b45085dbf3320093a07d9ebf96194c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-04 20:05:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

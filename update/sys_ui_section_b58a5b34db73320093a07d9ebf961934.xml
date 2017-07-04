@@ -5,13 +5,13 @@
             <element>component_name</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 15:51:39</sys_created_on>
-            <sys_id>864b5fb4db73320093a07d9ebf961974</sys_id>
+            <sys_created_on>2017-07-04 20:40:24</sys_created_on>
+            <sys_id>ff5d10c9dbf3320093a07d9ebf961939</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Component Info" display_value="Component Info" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">b58a5b34db73320093a07d9ebf961934</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 15:51:39</sys_updated_on>
+            <sys_updated_on>2017-07-04 20:40:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>release_date</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 15:51:39</sys_created_on>
-            <sys_id>0a4b5fb4db73320093a07d9ebf961974</sys_id>
+            <sys_created_on>2017-07-04 20:40:24</sys_created_on>
+            <sys_id>735d10c9dbf3320093a07d9ebf96193a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Component Info" display_value="Component Info" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">b58a5b34db73320093a07d9ebf961934</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 15:51:39</sys_updated_on>
+            <sys_updated_on>2017-07-04 20:40:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,111 +33,139 @@
             <element>author</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 15:51:39</sys_created_on>
-            <sys_id>8a4b5fb4db73320093a07d9ebf961974</sys_id>
+            <sys_created_on>2017-07-04 20:40:24</sys_created_on>
+            <sys_id>f35d10c9dbf3320093a07d9ebf96193a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Component Info" display_value="Component Info" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">b58a5b34db73320093a07d9ebf961934</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 15:51:39</sys_updated_on>
+            <sys_updated_on>2017-07-04 20:40:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_type</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-04 20:40:24</sys_created_on>
+            <sys_id>775d10c9dbf3320093a07d9ebf96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Component Info" display_value="Component Info" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">b58a5b34db73320093a07d9ebf961934</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-04 20:40:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 15:51:39</sys_created_on>
-            <sys_id>0e4b5fb4db73320093a07d9ebf961974</sys_id>
+            <sys_created_on>2017-07-04 20:40:24</sys_created_on>
+            <sys_id>f75d10c9dbf3320093a07d9ebf96193a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Component Info" display_value="Component Info" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">b58a5b34db73320093a07d9ebf961934</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 15:51:39</sys_updated_on>
+            <sys_updated_on>2017-07-04 20:40:24</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>version</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 15:51:39</sys_created_on>
-            <sys_id>8e4b5fb4db73320093a07d9ebf961974</sys_id>
+            <sys_created_on>2017-07-04 20:40:24</sys_created_on>
+            <sys_id>7b5d10c9dbf3320093a07d9ebf96193a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Component Info" display_value="Component Info" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">b58a5b34db73320093a07d9ebf961934</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 15:51:39</sys_updated_on>
+            <sys_updated_on>2017-07-04 20:40:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>url</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 15:51:39</sys_created_on>
-            <sys_id>024b5fb4db73320093a07d9ebf961975</sys_id>
+            <sys_created_on>2017-07-04 20:40:24</sys_created_on>
+            <sys_id>fb5d10c9dbf3320093a07d9ebf96193a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Component Info" display_value="Component Info" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">b58a5b34db73320093a07d9ebf961934</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 15:51:39</sys_updated_on>
+            <sys_updated_on>2017-07-04 20:40:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>company</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 15:51:39</sys_created_on>
-            <sys_id>824b5fb4db73320093a07d9ebf961975</sys_id>
+            <sys_created_on>2017-07-04 20:40:24</sys_created_on>
+            <sys_id>7f5d10c9dbf3320093a07d9ebf96193a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Component Info" display_value="Component Info" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">b58a5b34db73320093a07d9ebf961934</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 15:51:39</sys_updated_on>
+            <sys_updated_on>2017-07-04 20:40:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_source_code_av</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-04 20:40:24</sys_created_on>
+            <sys_id>ff5d10c9dbf3320093a07d9ebf96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Component Info" display_value="Component Info" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">b58a5b34db73320093a07d9ebf961934</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-04 20:40:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>7</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 15:51:39</sys_created_on>
-            <sys_id>064b5fb4db73320093a07d9ebf961975</sys_id>
+            <sys_created_on>2017-07-04 20:40:24</sys_created_on>
+            <sys_id>735d10c9dbf3320093a07d9ebf96193b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Component Info" display_value="Component Info" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">b58a5b34db73320093a07d9ebf961934</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 15:51:39</sys_updated_on>
+            <sys_updated_on>2017-07-04 20:40:24</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
-            <position>8</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 15:51:39</sys_created_on>
-            <sys_id>864b5fb4db73320093a07d9ebf961975</sys_id>
+            <sys_created_on>2017-07-04 20:40:24</sys_created_on>
+            <sys_id>f35d10c9dbf3320093a07d9ebf96193b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Component Info" display_value="Component Info" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">b58a5b34db73320093a07d9ebf961934</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 15:51:39</sys_updated_on>
+            <sys_updated_on>2017-07-04 20:40:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>capabilities</element>
-            <position>9</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-04 15:51:39</sys_created_on>
-            <sys_id>0a4b5fb4db73320093a07d9ebf961975</sys_id>
+            <sys_created_on>2017-07-04 20:40:24</sys_created_on>
+            <sys_id>775d10c9dbf3320093a07d9ebf96193b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Component Info" display_value="Component Info" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">b58a5b34db73320093a07d9ebf961934</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-04 15:51:39</sys_updated_on>
+            <sys_updated_on>2017-07-04 20:40:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
