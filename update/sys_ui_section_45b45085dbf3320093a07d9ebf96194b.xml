@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Data Storage" section_id="45b45085dbf3320093a07d9ebf96194b" sys_domain="global" table="x_127881_iot_compo_iot_components" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_sen_data_enc</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-04 20:02:35</sys_created_on>
+            <sys_id>7db4d085dbf3320093a07d9ebf961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Data Storage" display_value="Data Storage" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">45b45085dbf3320093a07d9ebf96194b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-04 20:02:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_user_roles</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-04 20:02:35</sys_created_on>
+            <sys_id>fdb4d085dbf3320093a07d9ebf961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Data Storage" display_value="Data Storage" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">45b45085dbf3320093a07d9ebf96194b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-04 20:02:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_sensitive_data_disposed</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-04 20:02:35</sys_created_on>
+            <sys_id>71b4d085dbf3320093a07d9ebf961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Data Storage" display_value="Data Storage" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">45b45085dbf3320093a07d9ebf96194b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-04 20:02:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-04 20:02:35</sys_created_on>
+            <sys_id>f1b4d085dbf3320093a07d9ebf961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Data Storage" display_value="Data Storage" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">45b45085dbf3320093a07d9ebf96194b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-04 20:02:35</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_is_sen_data_enc_comment</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-04 20:02:35</sys_created_on>
+            <sys_id>75b4d085dbf3320093a07d9ebf961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Data Storage" display_value="Data Storage" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">45b45085dbf3320093a07d9ebf96194b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-04 20:02:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_user_roles_comment</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-04 20:02:35</sys_created_on>
+            <sys_id>f5b4d085dbf3320093a07d9ebf961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Data Storage" display_value="Data Storage" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">45b45085dbf3320093a07d9ebf96194b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-04 20:02:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_data_disposed_comments</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-04 20:02:35</sys_created_on>
+            <sys_id>79b4d085dbf3320093a07d9ebf961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Data Storage" display_value="Data Storage" name="x_127881_iot_compo_iot_components" sys_domain="global" view="Default view">45b45085dbf3320093a07d9ebf96194b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-04 20:02:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Data Storage</caption>
+            <header>false</header>
+            <name>x_127881_iot_compo_iot_components</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-04 20:02:31</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>45b45085dbf3320093a07d9ebf96194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Data Storage</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IoT components" source="x_127881_iot_compo">c9275f78db33320093a07d9ebf9619b8</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="IoT components">c9275f78db33320093a07d9ebf9619b8</sys_scope>
+            <sys_update_name>sys_ui_section_45b45085dbf3320093a07d9ebf96194b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-04 20:02:31</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

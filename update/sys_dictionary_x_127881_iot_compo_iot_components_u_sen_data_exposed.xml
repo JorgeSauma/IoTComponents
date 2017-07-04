@@ -1,21 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="data_validation_comment" table="x_127881_iot_compo_iot_components">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="u_sen_data_exposed" table="x_127881_iot_compo_iot_components">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
         <attributes/>
         <audit>false</audit>
-        <calculation><![CDATA[(function calculatedFieldValue(current) {
-
-	// Add your code here
-	return '';  // return the calculated value
-
-})(current);]]></calculation>
-        <choice/>
+        <calculation/>
+        <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Comments</column_label>
+        <column_label>Is sensitive data exposed to user?</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -28,12 +23,12 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>data_validation_comment</element>
+        <element>u_sen_data_exposed</element>
         <element_reference>false</element_reference>
         <foreign_database/>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="">boolean</internal_type>
         <mandatory>false</mandatory>
-        <max_length>250</max_length>
+        <max_length>40</max_length>
         <name>x_127881_iot_compo_iot_components</name>
         <next_element/>
         <primary>false</primary>
@@ -51,18 +46,18 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-07-04 15:47:59</sys_created_on>
+        <sys_created_on>2017-07-04 19:25:12</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
-        <sys_id>fb4a1f74db73320093a07d9ebf96190f</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Comments</sys_name>
+        <sys_id>562cc441dbf3320093a07d9ebf961906</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Is sensitive data exposed to user?</sys_name>
         <sys_package display_value="IoT components" source="x_127881_iot_compo">c9275f78db33320093a07d9ebf9619b8</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="IoT components">c9275f78db33320093a07d9ebf9619b8</sys_scope>
-        <sys_update_name>sys_dictionary_x_127881_iot_compo_iot_components_data_validation_comment</sys_update_name>
+        <sys_update_name>sys_dictionary_x_127881_iot_compo_iot_components_u_sen_data_exposed</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-07-04 19:25:13</sys_updated_on>
+        <sys_updated_on>2017-07-04 19:25:12</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

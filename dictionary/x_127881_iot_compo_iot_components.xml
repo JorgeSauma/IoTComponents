@@ -6,15 +6,33 @@
         <element label="Company" max_length="40" name="company" type="string"/>
         <element label="Component Name" max_length="40" name="component_name" type="string"/>
         <element label="Is data sent over secure channel?" max_length="40" name="data_sent_over_secure_channel" type="boolean"/>
-        <element label="Comments" max_length="40" name="data_sent_over_secure_channel_comment" type="string"/>
+        <element label="Comments" max_length="250" name="data_sent_over_secure_channel_comment" type="string"/>
         <element label="Is data validated?" max_length="40" name="data_validation" type="boolean"/>
-        <element label="Comments" max_length="40" name="data_validation_comment" type="string"/>
+        <element label="Comments" max_length="250" name="data_validation_comment" type="string"/>
         <element label="Description" max_length="40" name="description" type="string"/>
         <element default="01/01/00" label="Release date" mandatory="true" max_length="10" name="release_date" type="glide_date"/>
         <element label="Requirements list" max_length="40" name="requirements" type="string"/>
         <element label="URL" max_length="1024" name="url" type="url"/>
+        <element attributes="edge_encryption_enabled=true" label="Comments" max_length="250" name="u_data_disposed_comments" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Comments" max_length="250" name="u_data_san_comments" type="string"/>
+        <element label="Is error catching implemented?" max_length="40" name="u_error_catching" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Comments" max_length="250" name="u_error_catching_comment" type="string"/>
         <element label="Is data sanitized?" max_length="40" name="u_is_data_sanitized" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Comments" max_length="250" name="u_is_sen_data_enc_comment" type="string"/>
+        <element label="Are logs timestamped?" max_length="40" name="u_logs_timestamped" type="boolean"/>
+        <element label="Are there controls to access logs?" max_length="40" name="u_log_access_control" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Where are the log files stored?" max_length="250" name="u_log_files_stored" type="string"/>
+        <element label="Does it support log levels?" max_length="40" name="u_log_levels" type="boolean"/>
+        <element label="Is log rotate enabled?" max_length="40" name="u_log_rotate" type="boolean"/>
+        <element label="Is NTP supported?" max_length="40" name="u_ntp_supported" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Comments" max_length="250" name="u_ntp_support_comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Comments" max_length="250" name="u_sensitive_data_comments" type="string"/>
+        <element label="Is sensitive data disposed properly?" max_length="40" name="u_sensitive_data_disposed" type="boolean"/>
+        <element label="Is sensitive data stored encrypted?" max_length="40" name="u_sen_data_enc" type="boolean"/>
+        <element label="Is sensitive data exposed to user?" max_length="40" name="u_sen_data_exposed" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Databases used" max_length="40" name="u_string_15" type="string"/>
+        <element label="Are there user roles enabled to access sensitive data?" max_length="40" name="u_user_roles" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Comments" max_length="250" name="u_user_roles_comment" type="string"/>
         <element default="0.0" label="Version" mandatory="true" max_length="10" name="version" type="string"/>
     </element>
 </database>
